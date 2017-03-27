@@ -1,5 +1,7 @@
 MASTERMIND
 
+To run Mastermind either open in Eclipse and run the Mastermind.java file or navigate into directory in your terminal ensuring you have the Java compiler, enter javac *.java then java Mastermind to run the game from terminal. 
+
 At the start of the game, the player must select the settings of the game before the game can start.
 In this version of Mastermind, numbers are used instead of colours to make the text interface easier to use.
 Each number can be considered to represent a different colour.
